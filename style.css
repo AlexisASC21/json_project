@@ -1,1 +1,15 @@
 /* Add your styling here: */
+body {
+    text-align: center;
+    background-color: rebeccapurple;
+}
+
+#profile {
+    display: flex;
+    flex-direction: column;
+}
+
+#profile div {
+    display: flex;
+    border: 5px solid black;
+}
